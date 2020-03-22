@@ -1128,7 +1128,7 @@
 12	so	so	ADV	_	Glose=so|endali=192728|startali=192416	14	mod	_	startali=192416|endali=192728|Glose=so
 13	many	many	ADJ	_	Glose=many|endali=192993|startali=192728	15	dep	_	startali=192728|endali=192993|Glose=many
 14	tings	tings	NOUN	_	Glose=thing.PL|Number=Plur|endali=193616|startali=192993	8	parataxis:parenth	_	startali=192993|endali=193616|Glose=thing.PL
-15	)	)	PUNCT	_	Glose=PUNCT|endali=193879|startali=193646	15	punct	_	startali=193646|endali=193879|Glose=PUNCT
+15	)	)	PUNCT	_	Glose=PUNCT|endali=193879|startali=193646	0	TOFIXpunct	_	startali=193646|endali=193879|Glose=PUNCT
 16	[eng	[eng	PUNCT	_	Glose=PUNCT|endali=193879|startali=193646	20	punct	_	startali=193646|endali=193879|Glose=PUNCT
 17	#	#	PUNCT	_	Glose=PUNCT|endali=193879|startali=193646	20	punct	_	startali=193646|endali=193879|Glose=PUNCT
 18	{	{	PUNCT	_	Glose=PUNCT|endali=193879|startali=193849	20	punct	_	startali=193849|endali=193879|Glose=PUNCT
@@ -1138,11 +1138,11 @@
 22	}	}	PUNCT	_	Glose=PUNCT|endali=194886|startali=194856	20	punct	_	startali=194856|endali=194886|Glose=PUNCT
 23	the	the	DET	_	Definite=Def|Glose=DEF.ART|PronType=Art|endali=195120|startali=194886	25	det	_	startali=194886|endali=195120|Glose=DEF.ART
 24	advantage	advantage	NOUN	_	Glose=advantage|endali=195650|startali=195120	22	comp	_	startali=195120|endali=195650|Glose=advantage
-25	of	of	ADP	_	Glose=of|endali=195760|startali=195650	25	dep	_	startali=195650|endali=195760|Glose=of
-26	what	what	PRON	_	Glose=what.Q|PronType=Int|endali=195910|startali=195760	26	comp	_	startali=195760|endali=195910|Glose=what.Q
-27	they	dem	PRON	_	Case=Nom|Glose=NOM.PL.3|Number=Plur|Person=3|PronType=Prs|endali=196000|startali=195910	27	dep	_	startali=195910|endali=196000|Glose=NOM.PL.3
-28	are	be	AUX	_	Glose=be.IND.PRS.FIN|Mood=Ind|Tense=Pres|VerbForm=Fin|endali=196155|startali=196000	28	comp:aux	_	startali=196000|endali=196155|Glose=be.IND.PRS.FIN
-29	doing	do	VERB	_	Glose=do.PRS.PTCP|Tense=Pres|VerbForm=Part|endali=196430|startali=196155	29	comp:pred	_	startali=196155|endali=196430|Glose=do.PRS.PTCP
+25	of	of	ADP	_	Glose=of|endali=195760|startali=195650	0	TOFIXdep	_	startali=195650|endali=195760|Glose=of
+26	what	what	PRON	_	Glose=what.Q|PronType=Int|endali=195910|startali=195760	0	TOFIXcomp	_	startali=195760|endali=195910|Glose=what.Q
+27	they	dem	PRON	_	Case=Nom|Glose=NOM.PL.3|Number=Plur|Person=3|PronType=Prs|endali=196000|startali=195910	0	TOFIXdep	_	startali=195910|endali=196000|Glose=NOM.PL.3
+28	are	be	AUX	_	Glose=be.IND.PRS.FIN|Mood=Ind|Tense=Pres|VerbForm=Fin|endali=196155|startali=196000	0	TOFIXcomp:aux	_	startali=196000|endali=196155|Glose=be.IND.PRS.FIN
+29	doing	do	VERB	_	Glose=do.PRS.PTCP|Tense=Pres|VerbForm=Part|endali=196430|startali=196155	0	TOFIXcomp:pred	_	startali=196155|endali=196430|Glose=do.PRS.PTCP
 30	eng]	eng]	PUNCT	_	Glose=PUNCT|endali=196460|startali=196430	20	punct	_	startali=196430|endali=196460|Glose=PUNCT
 31	//	//	PUNCT	_	Glose=PUNCT|endali=196460|startali=196430	3	punct	_	startali=196430|endali=196460|Glose=PUNCT
 
